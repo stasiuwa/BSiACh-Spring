@@ -1,4 +1,4 @@
-﻿package com.example.lab1.product;
+package com.example.lab1.product;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

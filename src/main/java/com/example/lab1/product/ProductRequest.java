@@ -1,4 +1,4 @@
-﻿package com.example.lab1.product;
+package com.example.lab1.product;
 
 import jakarta.validation.constraints.*;
 import lombok.Data;
